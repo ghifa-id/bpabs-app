@@ -1,0 +1,17 @@
+	user: superuser
+	pass: superuser123
+
+	user: ghifa
+	pass: ibnudarma
+==================================
+ 	user: admin
+	pass: admin123
+==================================
+ 	user: pelanggan
+	pass: pelanggan123
+
+	user: ediganteng
+	pass: ediamanto123
+
+ 	user: 
+	pass: 
